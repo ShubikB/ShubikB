@@ -1,4 +1,4 @@
-# Shubik-Bhatt
+# Shubik-Bhatt ILle Lopalika
 # 💫 About Me:
 I'm a Full Stack Developer. My skillsets are HTML, CSS, JavaScript and Figma.<br>I strive to create visually appealing and minimalistic websites.<br>
 

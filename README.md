@@ -1,6 +1,6 @@
 # Shubik-Bhatt
 # 💫 About Me:
-I'm a Full Stack Developer. My skillsets are HTML, CSS, JavaScript and Figma.<br>I strive to create visually appealing and minimalistic websites.<br>
+I'm a Full Stack Developer.<br>I strive to create visually appealing and minimalistic websites.<br>
 
 
 # 💻 Tech Stack:
